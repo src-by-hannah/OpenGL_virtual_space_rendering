@@ -6,7 +6,7 @@
 <br>
 
 ## Function
-<center>[![Demo](https://img.youtube.com/vi/yuIyBVcgTqk/0.jpg)](https://youtu.be/yuIyBVcgTqk)</center>  
+[![Demo](https://img.youtube.com/vi/yuIyBVcgTqk/0.jpg)](https://youtu.be/yuIyBVcgTqk)
 
 <br>
 
