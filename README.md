@@ -7,7 +7,7 @@
 
 ## Function
 
-<iframe width="956" height="538" src="https://youtu.be/yuIyBVcgTqk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/yuIyBVcgTqk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <b>1. Change the rendering mode</b>
