@@ -6,7 +6,7 @@
 <br>
 
 ## Function
-1. Change the rendering mode
+<b>1. Change the rendering mode</b>
 
   - Wireframe
 
@@ -18,7 +18,7 @@
 
 <br>
 
-2. Change the texturing option
+<b>2. Change the texturing option</b>
 
   - Point Sampling
 
@@ -32,11 +32,12 @@
 
 <br>
 
-3. Change the Projection mode
+<b>3. Change the Projection mode</b>
 
   - Parallel
 
   - Perspective
 
 <br>
-4 Light On/Off
+
+<b>4. Light On/Off</b>
