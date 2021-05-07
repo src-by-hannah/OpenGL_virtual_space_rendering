@@ -6,34 +6,37 @@
 <br>
 
 ## Function
-* Change the rendering mode
+1. Change the rendering mode
 
-- Wireframe
+  - Wireframe
 
-- Flat Shading
+  - Flat Shading
 
-- Smooth Shading
+  - Smooth Shading
 
-- Back-Face Culling
+  - Back-Face Culling
 
 <br>
 
-* Change the texturing option
+2. Change the texturing option
 
-- Point Sampling
+  - Point Sampling
 
-- Linear Sampling
+  - Linear Sampling
 
-- Clamp
+  - Clamp
 
-- Repeat
+  - Repeat
 
-- Mapping (Decal / Replace / Modulate / Blend)
+  - Mapping (Decal / Replace / Modulate / Blend)
 
-* Change the Projection mode
+<br>
 
-- Parallel
+3. Change the Projection mode
 
-- Perspective
-- 
-* Light On/Off
+  - Parallel
+
+  - Perspective
+
+<br>
+4 Light On/Off
