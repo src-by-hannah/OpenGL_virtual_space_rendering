@@ -6,7 +6,6 @@
 <br>
 
 ## Function
-[![Demo](https://img.youtube.com/vi/MBdVXkSdhwU/0.jpg)](https://youtu.be/yuIyBVcgTqk)
 
 <b>1. Change the rendering mode</b>
 
