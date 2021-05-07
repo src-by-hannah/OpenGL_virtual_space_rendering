@@ -6,6 +6,10 @@
 <br>
 
 ## Function
+
+<iframe width="956" height="538" src="https://youtu.be/yuIyBVcgTqk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 <b>1. Change the rendering mode</b>
 
   - Wireframe
@@ -41,3 +45,24 @@
 <br>
 
 <b>4. Light On/Off</b>
+
+<br>
+
+<b>5. Change the Material</b>
+
+  - Gold
+
+  - Bronze
+  
+  - Chrome
+  
+  - Cooper
+
+<br>
+
+<b>6. Navigation(Using the keyboard)</b>
+
+<br><br>
+Enjoy my work! Thank you.
+
+@src-by-hannah
