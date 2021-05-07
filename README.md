@@ -6,7 +6,10 @@
 <br>
 
 ## Function
-[![BTS DNA Youtube](https://img.youtube.com/vi/yuIyBVcgTqk/0.jpg)](https://youtu.be/yuIyBVcgTqk)
+<center>[![Demo](https://img.youtube.com/vi/yuIyBVcgTqk/0.jpg)](https://youtu.be/yuIyBVcgTqk)</center>  
+
+<br>
+
 <b>1. Change the rendering mode</b>
 
   - Wireframe
